@@ -1,0 +1,5 @@
+# Ignore auto-generated and large files
+*.sqlite3
+*.bin
+*.pickle
+ngrok.exe
