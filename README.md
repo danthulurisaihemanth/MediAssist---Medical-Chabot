@@ -1,6 +1,5 @@
 # 🩺 MediGenius: AI Medical Assistant
 
-[![Medical AI Assistant Demo](https://github.com/user-attachments/assets/c28917fd-c518-47df-a385-9b38dff54db9)](https://github.com/user-attachments/assets/c28917fd-c518-47df-a385-9b38dff54db9)
 
 ---
 
